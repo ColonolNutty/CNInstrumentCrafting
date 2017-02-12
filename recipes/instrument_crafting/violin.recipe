@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 2 },
+	// 4 strings, plus 1 for bow
+    { "item" : "string", "count" : 5 },
+    { "item" : "browndye", "count" : 2 }
+  ],
+  "output" : { "item" : "violin", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

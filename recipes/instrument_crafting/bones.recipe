@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "bone", "count" : 5 },
+    { "item" : "whitedye", "count" : 2 }
+  ],
+  "output" : { "item" : "bones", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "string", "count" : 47 },
+    { "item" : "logblock", "count" : 3 }
+  ],
+  "output" : { "item" : "harp", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

@@ -1,0 +1,52 @@
+{
+  "objectName" : "cn_craftinginstruments",
+  "colonyTags" : ["crafting"],
+  "printable" : false,
+  "price" : 30,
+  "rarity" : "Uncommon",
+  "description" : "Create instruments on this",
+  "shortdescription" : "^orange;Instrument Crafting Table^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "interactAction" : "OpenCraftingInterface",
+
+  "interactData" : {
+	"config" : "/interface/windowconfig/cn_craftinginstruments.config",
+	"filter" : [ "cn_instrumentCrafting" ]
+  },
+  
+  "animationState" : "cn_craftinginstruments",
+  
+  "animation" : "cn_craftinginstruments.animation",
+  "animationPosition" : [0, 14],
+  
+  "inventoryIcon" : "cn_craftinginstrumentsicon.png",
+  "placementImage" : "cn_craftinginstruments.png:default.default",
+  "placementImagePosition" : [-16, 0],
+
+  "apexDescription" : "A table that's fit for instrument crafting.",
+  "avianDescription" : "A chance to showcase one's instrument creation abilities.",
+  "floranDescription" : "Floran ussse table to make nice noisse makersss.",
+  "glitchDescription" : "Inspired. Instrument Crafting module activated.",
+  "humanDescription" : "I could make well tuned instruments with this.",
+  "hylotlDescription" : "All you need to make wood into music.",
+  "novakidDescription" : "I could make some mighty fine instruments with this table.",
+
+  "orientations" : [
+    {
+      "image" : "cn_craftinginstruments.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "cn_craftinginstruments.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

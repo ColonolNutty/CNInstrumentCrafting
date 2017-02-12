@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "moonstoneore", "count" : 5 },
+    { "item" : "bluedye", "count" : 2 }
+  ],
+  "output" : { "item" : "ocarina", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

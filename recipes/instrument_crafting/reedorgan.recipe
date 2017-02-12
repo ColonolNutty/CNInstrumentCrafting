@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "greendye", "count" : 2 },
+    { "item" : "logblock", "count" : 5 }
+  ],
+  "output" : { "item" : "reedorgan", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

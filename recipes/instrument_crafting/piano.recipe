@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "blackdye", "count" : 2 },
+    { "item" : "logblock", "count" : 5 }
+  ],
+  "output" : { "item" : "piano", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

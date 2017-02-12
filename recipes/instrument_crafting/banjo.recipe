@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 1 },
+    { "item" : "string", "count" : 4 },
+    { "item" : "logblock", "count" : 2 }
+  ],
+  "output" : { "item" : "banjo", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

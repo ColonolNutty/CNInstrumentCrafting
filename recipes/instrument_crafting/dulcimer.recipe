@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 2 },
+    { "item" : "plantfibre", "count" : 1 }
+  ],
+  "output" : { "item" : "dulcimer", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

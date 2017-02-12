@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "reddye", "count" : 2 },
+    { "item" : "cobblestonematerial", "count" : 5 }
+  ],
+  "output" : { "item" : "rockorgan", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "flute", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

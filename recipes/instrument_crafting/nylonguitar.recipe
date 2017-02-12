@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 5 },
+    { "item" : "string", "count" : 6 },
+    { "item" : "browndye", "count" : 2 }
+  ],
+  "output" : { "item" : "nylonguitar", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 5 }
+  ],
+  "output" : { "item" : "trumpet", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

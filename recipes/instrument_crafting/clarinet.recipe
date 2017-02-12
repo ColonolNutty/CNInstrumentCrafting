@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 4 },
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "blackdye", "count" : 1 }
+  ],
+  "output" : { "item" : "clarinet", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}

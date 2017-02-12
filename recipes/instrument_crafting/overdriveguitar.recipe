@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 3 },
+    { "item" : "string", "count" : 6 },
+    { "item" : "whitedye", "count" : 1 },
+    { "item" : "browndye", "count" : 1 }
+  ],
+  "output" : { "item" : "overdriveguitar", "count" : 1 },
+  "groups" : [ "cn_instrumentCrafting", "decoration", "all" ]
+}
